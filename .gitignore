@@ -1,3 +1,14 @@
 .idea/*
 __pycache__/
+env/
+2022/01/solutions_by_author/
+2022/02/solutions_by_author/
+2022/01/__pycache__/
+2022/01/.ipynb_checkpoints/
+2022/02/__pycache__/
+2022/02/.ipynb_checkpoints/
+2022/03/__pycache__/
+2022/03/.ipynb_checkpoints/
 *.pyc
+
+student_list.txt
